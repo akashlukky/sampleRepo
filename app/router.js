@@ -10,6 +10,7 @@ Router.map(function() {
   this.route('phonebook');
   this.route('newcontacts');
   this.route('preview');
+  this.route('testingone');
 });
 
 export default Router;
